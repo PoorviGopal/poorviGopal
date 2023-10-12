@@ -9,7 +9,7 @@
 
 - **🔭 I’m currently working on Android Project**
 
-- **🌱 I’m currently learning Currently exploring new technologies and honing my skills 📚**
+- **🌱 Learning & exploring new technologies and honing my skills 📚**
 
 - **💬 Ask me about Full Stack Development, Android Development, React, UI/UX, Project Planning, or anything tech-related! 🌐**
 
